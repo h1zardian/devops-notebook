@@ -1,0 +1,12 @@
+{
+  "name": "devops-notebook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/h1zardian/devops-notebook.git",
+  "keywords": [],
+  "author": "@h1zardian",
+  "license": "ISC",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.106.0"
+  }
+}

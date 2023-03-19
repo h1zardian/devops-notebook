@@ -1,0 +1,8 @@
+node_modules
+.dendron.*
+build
+.vscode
+.backup
+vault/.dendron.cache.json
+.next
+
